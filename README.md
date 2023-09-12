@@ -1,5 +1,5 @@
 
-# Customer-Behaviour-Analysis-MYSQL
+# Customer-Behaviour-Analysis-MySQL
 
  It focuses on examining patterns, trends, and factors influencing customer spending in order to gain insights into their preferences, purchasing habits, and potential areas for improvement in menu offerings or marketing strategies in a dining establishment.
 
